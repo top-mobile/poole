@@ -7,7 +7,7 @@ tagline:             A Mobile Tech And News Blog
 url:                 "https://top-mobile.github.io/"
 paginate:            1
 baseurl:             ""
-
+analytics_id:        UA-51097822-3
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
@@ -30,3 +30,4 @@ github:
 plugins:
   - jekyll-paginate
   - jekyll-gist
+  
