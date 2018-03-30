@@ -1,9 +1,5 @@
 Manga and anime are known to be a dominant part of Japanese culture. Reading manga and watching anime are in vogue for decades not only in Japan, their core fans are all over the world. Nowadays the world for comics has gone to digital and mobile. Tons of manga fans are shifting their ways of reading manga. The traditional reading media like paperback and hardback are gradually abandoned, young manga fans prefer to read manga on their smart phones or portable eReader devices.
 
-![](https://www.epubor.com/images/uppic/read-manga-on-ios.jpg)
-
-If you are following many mangas then you are quite familiar with our daily struggle to read manga on a mobile device. In our previous articles we introduced Best 6 Manga Apps for Android. Well, reading manga titles on your iPhone or iPad does not have to be painful too. In the principle of quality over quantity, I’ll introduce to you the 5 Best Manga apps for iOS that are developed to boost your manga reading experience on iPhone, iPad, or iPod touch.
-
 1. [Manga Hub](#manga-hub)
 2. [Manga Rock](#manga-rock)
 3. [Manga Bird](#manga-bird) 
